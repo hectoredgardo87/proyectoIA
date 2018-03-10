@@ -1,0 +1,33 @@
+c:\users\edgardo\documents\visual studio 2015\Projects\ProyectoFinalIA\ProyectoFinalIA\bin\Debug\ProyectoFinalIA.exe.config
+C:\Users\EDGARDO\Documents\Visual Studio 2015\Projects\ProyectoFinalIA\ProyectoFinalIA\bin\Debug\ProyectoFinalIA.exe
+C:\Users\EDGARDO\Documents\Visual Studio 2015\Projects\ProyectoFinalIA\ProyectoFinalIA\bin\Debug\ProyectoFinalIA.pdb
+C:\Users\EDGARDO\Documents\Visual Studio 2015\Projects\ProyectoFinalIA\ProyectoFinalIA\bin\Debug\encog-core-cs.dll
+C:\Users\EDGARDO\Documents\Visual Studio 2015\Projects\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.csprojResolveAssemblyReference.cache
+C:\Users\EDGARDO\Documents\Visual Studio 2015\Projects\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.exe
+C:\Users\EDGARDO\Documents\Visual Studio 2015\Projects\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.pdb
+C:\Users\EDGARDO\Documents\Visual Studio 2015\Projects\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.FrmInicio.resources
+C:\Users\EDGARDO\Documents\Visual Studio 2015\Projects\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.csproj.GenerateResource.Cache
+C:\Users\EDGARDO\Documents\Visual Studio 2015\Projects\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.FrmComprobar.resources
+C:\Users\EDGARDO\Documents\Visual Studio 2015\Projects\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.FrmEntrenamiento.resources
+C:\MEGA\INTELIGENCIA\ProyectoFinalIA\ProyectoFinalIA\bin\Debug\ProyectoFinalIA.exe.config
+C:\MEGA\INTELIGENCIA\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.exe
+C:\MEGA\INTELIGENCIA\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.pdb
+C:\MEGA\INTELIGENCIA\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.csprojResolveAssemblyReference.cache
+C:\MEGA\INTELIGENCIA\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.FrmComprobar.resources
+C:\MEGA\INTELIGENCIA\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.FrmEntrenamiento.resources
+C:\MEGA\INTELIGENCIA\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.FrmInicio.resources
+C:\MEGA\INTELIGENCIA\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.csproj.GenerateResource.Cache
+C:\MEGA\INTELIGENCIA\ProyectoFinalIA\ProyectoFinalIA\bin\Debug\ProyectoFinalIA.exe
+C:\MEGA\INTELIGENCIA\ProyectoFinalIA\ProyectoFinalIA\bin\Debug\ProyectoFinalIA.pdb
+C:\MEGA\INTELIGENCIA\ProyectoFinalIA\ProyectoFinalIA\bin\Debug\encog-core-cs.dll
+C:\Users\EDGARDO\Desktop\ProyectoFinalIA\ProyectoFinalIA\bin\Debug\ProyectoFinalIA.exe.config
+C:\Users\EDGARDO\Desktop\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.exe
+C:\Users\EDGARDO\Desktop\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.pdb
+C:\Users\EDGARDO\Desktop\ProyectoFinalIA\ProyectoFinalIA\bin\Debug\ProyectoFinalIA.exe
+C:\Users\EDGARDO\Desktop\ProyectoFinalIA\ProyectoFinalIA\bin\Debug\ProyectoFinalIA.pdb
+C:\Users\EDGARDO\Desktop\ProyectoFinalIA\ProyectoFinalIA\bin\Debug\encog-core-cs.dll
+C:\Users\EDGARDO\Desktop\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.csprojResolveAssemblyReference.cache
+C:\Users\EDGARDO\Desktop\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.FrmComprobar.resources
+C:\Users\EDGARDO\Desktop\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.FrmEntrenamiento.resources
+C:\Users\EDGARDO\Desktop\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.FrmInicio.resources
+C:\Users\EDGARDO\Desktop\ProyectoFinalIA\ProyectoFinalIA\obj\Debug\ProyectoFinalIA.csproj.GenerateResource.Cache
